@@ -86,7 +86,7 @@ E-Feedback/
 
 ## 👥 Contributors
 
+- **Prakhar Singh** - [LinkedIn](https://www.linkedin.com/in/prakhar-singh-1b9614185/) | [GitHub](https://github.com/prakharsingh1923/E-Feedback-System-MP2-)
 - **Parth Armarkar** - [LinkedIn](http://www.linkedin.com/in/parth-armarkar-052551289) | [GitHub](https://github.com/Parth-GECA-IT)
-
 - **Dhruv Punekar** - [LinkedIn](https://www.linkedin.com/in/dhruv-punekar-a57299277/) | [GitHub](https://github.com)
-- **Prakhar Singh** - [LinkedIn](https://www.linkedin.com/in/prakhar-singh-1b9614185/) | [GitHub](https://github.com/prakharsingh1923/)
+
